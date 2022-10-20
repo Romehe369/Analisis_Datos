@@ -1,4 +1,4 @@
-# PROYECTO-DE-ANALISIS-DE-DATOS-EMPRESARIAS
+# ANALISIS DE DATOS EMPRESARIAS
 - **Universidad:** Universidad Nacional de San Antonio Abad del Cusco
 - **Facultad:** De ingenieria electrica, electronica, informatica y mecanica
 - **Escuela Profesional:** Ingenieria Informatica y de Sistemas
